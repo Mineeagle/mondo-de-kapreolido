@@ -62,7 +62,7 @@ class File:
         # Convert the markdown file
         html_content = markdown2.markdown(
             prepared_md_content,
-            extras=["metadata", "footnotes"],
+            extras=["metadata", "footnotes", "tables"],
             footnote_title="Reiru al %d en la teksto.",
             footnote_return_symbol="&#8617;")
         metadata = html_content.metadata

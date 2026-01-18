@@ -1,7 +1,7 @@
 ---
 title: Enhavo
 created_at: 16-a de Januaro, 2026
-last_updated_at: 16-a de Januaro, 2026
+last_updated_at: 18-a de Januaro, 2026
 ---
 Ĉu vi volas scii pri ĉiuj retpaĝoj, kiu estas troviĝas ĉi tie, sur la retpaĝo? Ĉu vi ne scias kion vi legu? Aŭ ĉu vi simple volas legi diversajn artikolojn?
 
@@ -9,3 +9,8 @@ Se vi jesis al iu ajna demando, vi alvenis ĉe la ĝusta retpaĝo. Ĝi montras l
 
 - [Hejmo](./basics..index.md)
 - [Enhavo](./basics..enhavo.md) (vi jam estas ĉi tie)
+- Filosofaĵoj
+    - [Sociala justeco laŭ F. A. Hayek](filozofio..sociala_justeco_hayek.md)
+    - [La empiriismo de John Lockes](filozofio..empiriismo_de_lockes.md)
+    - [La hedonisma kalkulo de Bentham](filozofio..hedonisma_kalkulo_bentham.md)
+    - [Antropologio – Naturo de la homo; kiu ĝi estas?](filozofio..naturo_de_la_homo.md)
