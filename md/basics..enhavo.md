@@ -14,3 +14,5 @@ Se vi jesis al iu ajna demando, vi alvenis ĉe la ĝusta retpaĝo. Ĝi montras l
     - [La empiriismo de John Lockes](filozofio..empiriismo_de_lockes.md)
     - [La hedonisma kalkulo de Bentham](filozofio..hedonisma_kalkulo_bentham.md)
     - [Antropologio – Naturo de la homo; kiu ĝi estas?](filozofio..naturo_de_la_homo.md)
+- Lingvo
+    - [Arĥaika Esperanto](lingvo..arĥaika_esperanto.md)

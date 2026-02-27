@@ -21,6 +21,16 @@ Espereble ĝuas la viziton ĉi tie. Se ne - kion vi daŭre faras ĉi tie ;)
 
 ---
 
+### Arĥaika Esperanto
+
+> "Yemen tagom, que mihi dewams wenghir ityun murdon mihes dorlotbestes, Nudeloy. Ghisquez ityam, tu ned raytas preterpasir. Cumatestantom, cuyal ned wetir iyed cuyu selez tu estot wenkintam?"
+
+Kiom de la ĉi supra teksto vi komprenis? Kaj kiom se temas pri kio la kavaliro diris? Verŝajne vi povis kompreni iom da vortoj, eble eĉ la sencon. Sed tamen verŝajne ne ĉion frazon, kaj plej verŝajne ankaŭ ne ĉiun vorton.
+
+Se vi pensas ke vi komprenis iom da vortoj, eble eĉ la sencon, sed ne ciun detalon, tiam Manuel Halvelik atingis sian celon kun Arĥaika Esperanto.
+
+[Artikolen](./lingvo..arĥaika_esperanto.md)
+
 ### Antropologio – Naturo de la homo; kiu ĝi estas?
 
 La esenco de homoj, la natura stato de homoj estas ne certa konata. Sed filozofoj pensis pri tio. Ili
