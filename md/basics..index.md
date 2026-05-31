@@ -1,7 +1,7 @@
 ---
 title: Hejmo
 created_at: 16-a de Januaro, 2026
-last_updated_at: 18-a de Januaro, 2026
+last_updated_at: 31-a de Majo, 2026
 ---
 # Saluton mondo!
 
@@ -20,6 +20,14 @@ Espereble ĝuas la viziton ĉi tie. Se ne - kion vi daŭre faras ĉi tie ;)
 ~ Kapreolido
 
 ---
+
+### Kial malpravas neŭraj retoj?
+
+Tiu ĉi artikolo havas la celon iom klarigi pri facilaj neŭraj retoj je teoria kaj poste eĉ praktika flanko. Simple pli bone eblas kritike rigardi kaj juĝi, kiam oni komprenas, kiel ili funkcias, kaj kial ili malpravas. Ĝi komencas la klarigadon kun bazaj konceptoj de matematiko, aplikas ilin kaj evoluas la teoriajn konceptojn tiajn al teorio pri neŭraj retoj; unue rigardonte la strukturon mem, poste uzante praktikan ekzemplon kiel neŭra reto _konjektas_, kaj laste kiel ĝi lernas.
+
+Do se vi interesiĝas pri tiu temo, kaj volas enprofundiĝi iomete, sentu vin libera.
+
+[Artikolen](./teĥnikaĵo..neŭraj_retoj.md)
 
 ### Arĥaika Esperanto
 
@@ -52,13 +60,3 @@ Multaj pensemuloj kaj filozofoj cerbumadis pri tiu demando. Kaj ekzistas diversa
 John Lockes pensis pri la demando, kiel homoj ricevas siajn sciojn aŭ eĉ siajn mondbildojn. Ĉar ankaŭ aliaj teorioj rilatantaj al tiu demando eksistas, li, kaj poste Hume, volis kontrasti de la aliaj, kaj proponi sian opinion al la mondo.
 
 [Artikolen](./filozofio..empiriismo_de_lockes.md)
-
-### Sociala Justeco laŭ F. A. Hayek
-
-"Ĉu ekzistas sociala justeco?"
-
-Ĉu vi antaŭe demandis tion al vi mem? Aŭ al alia persono? Eble vi ankaŭ demandis tion mense al la tuta mondo.
-
-Ankaŭ Friedrich August von Hayek - filosofo kiu naskiĝis 1899 kaj mortis 1992 - pensadis pri tio afero.
-
-[Artikolen](./filozofio..sociala_justeco_hayek.md)
