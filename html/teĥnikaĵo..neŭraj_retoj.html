@@ -245,7 +245,7 @@ $$</p>
 <p>Tiam, nia funkcio en la neŭro aspektas tiel:</p>
 
 <p>$$
-f(e<em>1, e</em>2) = e<em>1 * g</em>1 + e<em>2 * g</em>2 + b
+f(e_1, e_2) = e_1 * g_1 + e_2 * g_2 + b
 $$</p>
 
 <p>Ni nun povas vidi, ke ni havas du enigojn, kaj ĉiu havas gravecon. Tamen, la biaso restas je unu po neŭro. Ni simple multiplikas la enigon kun siaj propraj gravecoj kaj je la fino ankoraŭ aldonas la biason.</p>
@@ -253,7 +253,7 @@ $$</p>
 <p>Tiamaniere, eblas laŭplaĉe grandigi la neŭron:</p>
 
 <p>$$
-b+\sum_{i=1}^{e<em>n}{e</em>i*g_i}
+b+\sum_{i=1}^{e_n}{e_i*g_i}
 $$</p>
 
 <p>Se ni nun rigardas la eliĝan parton de neŭro...</p>
@@ -380,7 +380,7 @@ $$</p>
 <p>Nun aspektas iom pli kompleksa, sed memoru ke la numeroj simple estas la gravecoj kaj la biaso:</p>
 
 <p>$$
-\text{eliĝo de la antaŭa densa ebeno} = \text{1a TanH neŭro} * g<em>1 + \text{2a TanH neŭro} * g</em>2 + \text{3a TanH neŭro} * g_3 - b
+\text{eliĝo de la antaŭa densa ebeno} = \text{1a TanH neŭro} * g_1 + \text{2a TanH neŭro} * g_2 + \text{3a TanH neŭro} * g_3 - b
 $$</p>
 
 <p>Se oni tion ĝisfine farus, tiam oni ricevus la montritan funkcion, la vojon, kiun niaj enigon iras, por ke ni alvenas ĉe nia volanta rezulto</p>
@@ -410,10 +410,10 @@ $$</p>
 <p>Sed kompreneble ekzistas ankaŭ aliaj aliroj al tio problemo. Ekzemple la MSE (angla <em>Mean Squared Error</em>), la <em>kvadratigita averaĝa eraro</em>:</p>
 
 <p>$$
-\text{MSE}(Y<em>i,Y</em>i^<em>)=\frac{1}{n}\sum_{i=1}^{n}(Y_i^</em>-Y_i)^2
+\text{MSE}(Y_i,Y_i^*)=\frac{1}{n}\sum_{i=1}^{n}(Y_i^*-Y_i)^2
 $$</p>
 
-<p>($Y<em>i$ estas la i-a elîgo, kaj $Y</em>i^*$ la rezulto, kiun ni atendis.)</p>
+<p>($Y_i$ estas la i-a elîgo, kaj $Y_i^*$ la rezulto, kiun ni atendis.)</p>
 
 <p>Do simple tion, kion ni antaŭe faris (kalkuli la diferencon), sed poste ĝi estas kvadratigita, por ke oni ne plu havas eraron laŭ pozitiva aŭ negativa direkto. Kaj ni poste simple prenas la averaĝon de ĉiuj niaj eliĝoj por ekscii, kiom bona aŭ malbona la reto estas.</p>
 
@@ -422,7 +422,7 @@ $$</p>
 <p>Derivigita kvadratigita averaĝa eraro por unu eliĝo $Y_i$:</p>
 
 <p>$$
-MSE'(Y<em>i,Y</em>i^<em>) = \frac{2}{i}</em>(Y<em>i^*-Y</em>i)
+MSE'(Y_i,Y_i^*) = \frac{2}{i}*(Y_i^*-Y_i)
 $$</p>
 
 <p>Tiel, ni scias kiom nia reto eraras rilate al la specifa eliĝo. Tiu numero estas plej baza por la adaptigado de la gravecoj kaj biasoj.</p>

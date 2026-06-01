@@ -1,7 +1,7 @@
 ---
 title: Neŭraj retoj - kial ili malpravas
 created_at: 17-a de Majo, 2026
-last_updated_at: 31-a de Majo, 2026
+last_updated_at: 01-a de Junio, 2026
 ---
 # Neŭraj retoj - kial ili malpravas
 
@@ -40,7 +40,7 @@ En la supra ekzemplo, ni havas nian nunan monon kiel enigo, nia havas la duoblig
 Tion, ni ankaŭ povas skribi tiel:
 
 $$
-\text{duobligita\_mono}(\text{nuna\_mono}) = \text{nuna\_mono} * 2
+\text{duobligita_mono}(\text{nuna_mono}) = \text{nuna_mono} * 2
 $$
 
 Ni havas la eliĝon je la maldekstra flanko. Ĉirkaŭata de parantezoj, ni havas nian enigon. Kaj je la dekstra flanko de la egalecsimbolo, ni havas nian funkcion.
@@ -48,7 +48,7 @@ Ni havas la eliĝon je la maldekstra flanko. Ĉirkaŭata de parantezoj, ni havas
 Tiun koncepton, de funkcioj, oni povas grandigi. Verŝajne tiu procezo jam estas konata aŭ iomete memorata el la lernejo. Por doni ekzemplon, tiu funkcio eligas la kvanton da mono, kiun ni havus post iom da jaroj, se ni ĉiujare ekŝparas iun kvanton:
 
 $$
-\text{mono\_post\_jaroj}(\text{jaroj}, \text{ĉiujara\_ŝparmono}) = \text{jaroj} * \text{ĉiujara\_ŝparmono}
+\text{mono_post_jaroj}(\text{jaroj}, \text{ĉiujara_ŝparmono}) = \text{jaroj} * \text{ĉiujara_ŝparmono}
 $$
 
 Tio verŝajne ankaŭ estas sufice facile. Ni simple multipliku la jarojn kaj la sumon de la mono, kiun ni volas ŝpari.
@@ -94,7 +94,7 @@ Ni simple volas havi funkcion, kiu respondas jesante aŭ neante. Kion ni povas f
 Tiel, ni jam konstruis la preskaŭ plej gravajn partoj de nia neŭra reto:
 
 $$
-\text{ĉu\_estas\_en\_akuzativ\_formo}(\text{ĉu\_finiĝas\_per\_n},\text{ ĉu\_estas\_la\_vorto\_en})
+\text{ĉu_estas_en_akuzativ_formo}(\text{ĉu_finiĝas_per_n},\text{ ĉu_estas_la_vorto_en})
 $$
 
 Ni havas niajn eligojn, kaj ankaŭ nian volantan rezulton. Ni mallongigu tion denove al ĉi tiu:
